@@ -1,0 +1,24 @@
+{
+  "name": "Sushi Takumi - Japanese Restaurant in Green Bay, WI",
+  "short_name": "Sushi Takumi",
+  "description": "Fresh, modern Japanese food in Green Bay, Wisconsin.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff0de",
+  "theme_color": "#b1454a",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f363.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/72x72/1f363.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
